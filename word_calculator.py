@@ -7,6 +7,8 @@ def calc(raw):
     operator = " ".join(operator_pieces)
 
     operator_func = FUNCTIONS[operator]
+    num1 = int(num1)
+    num2 = int(num2)
     return operator_func(num1, num2)
 
 
