@@ -33,3 +33,4 @@ contains `word-calculator.py`
 
 - Adds numbers with "plus" 
 - Subtracts numbers with "minus"
+- Divides numbers with "divided by"
